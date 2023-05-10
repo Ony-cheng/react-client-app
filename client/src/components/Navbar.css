@@ -1,0 +1,13 @@
+.main-nav{
+    background-color: #292931 ;
+    margin: 0;
+    padding: 1em;
+
+}
+.top-row{
+    display: flex;
+}
+
+.logo{
+    margin-left: 1em;
+}
